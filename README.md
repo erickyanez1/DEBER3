@@ -1,6 +1,6 @@
 <div align="center">
 
-# DEBER 3 -CAPÍTULOS 5-6
+# DEBER 3 - CAPÍTULOS 5-6
 
 ![](https://github.com/erickyanez1/IMAGENES-DEBER-1/blob/main/espe.png) 
 
