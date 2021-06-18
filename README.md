@@ -16,13 +16,12 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - xd
+  - Determinar cálculos correspondientes aplicando la Ley de Ohm sabiendo como interviene tanto voltajes como intensidades en distintos circuitos en serie y paralelo.
  
  **OBJETIVOS ESPECÍFICOS**
-  - xd
-  - xd
-  - xd
-
+  - Analizar detenidamente que es lo que sucede con el voltaje e intensidad en serie y paralelo.
+  - Resolver ejercicios básicos con Ley de Ohm con el fin de percatarnos los valores que circulan dentro del circuito.
+  
 # **2. MARCO TEÓRICO**
 - Capítulo 5
 
@@ -118,7 +117,6 @@
 
 Se concluye que:
 
-- as
 - En un circuito en paralelo se puede afirmar que el voltaje va a ser constante, sus intensidades de corriente van a tener una variación entre ellas y finalmente sus resistencias totales van a ser menor a las resistencias que componen al circuito.  
 -  La cantidad de carga depende tanto del intrumento que se va a utilizar como del circuito que vamos a realizar las mediciones, ya que un amperimetro usa la corriente en el circuito para proporcionar una lectura y este afectara al circuito.
 
