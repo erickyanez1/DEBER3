@@ -73,7 +73,7 @@ Se concluye que:
 
 - as
 - En un circuito en paralelo se puede afirmar que el voltaje va a ser constante, sus intensidades de corriente van a tener una variación entre ellas y finalmente sus resistencias totales van a ser menor a las resistencias que componen al circuito.  
-- as
+-  La cantidad de carga depende tanto del intrumento que se va a utilizar como del circuito que vamos a realizar las mediciones, ya que un amperimetro usa la corriente en el circuito para proporcionar una lectura y este afectara al circuito.
 
 
 # **6. BIBLIOGRAFÍA**
