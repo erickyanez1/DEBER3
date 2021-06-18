@@ -36,7 +36,12 @@
 
 - Capítulo 6
 
-
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/MapaCap6_P1.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/MapaCap6_P2.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/MapaCap6_P3.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/MapaCap6_P4.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/MapaCap6_P5.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/MapaCap6_P6.jpg)
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 - Capítulo 5
