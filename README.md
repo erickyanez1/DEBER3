@@ -65,7 +65,17 @@
 ![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/ejer_17_cap6.png)
 ![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/ejer_19_cap6.png)
 ![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/ejer_21_cap6.png)
-
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P1.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P2.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P3.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P4.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P5.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P6.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P7.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P8.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P9.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P10.jpg)
+![](https://github.com/erickyanez1/DEBER3/blob/main/IMG/EjerciciosCap6_P11.jpg)
 
 
 # **4. VÍDEO**
